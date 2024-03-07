@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\bin\Debug\net6.0\RefandOut keywords.exe
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\bin\Debug\net6.0\RefandOut keywords.deps.json
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\bin\Debug\net6.0\RefandOut keywords.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\bin\Debug\net6.0\RefandOut keywords.dll
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\bin\Debug\net6.0\RefandOut keywords.pdb
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.dll
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\refint\RefandOut keywords.dll
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.pdb
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\RefandOut keywords.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp3\RefandOut keywords\obj\Debug\net6.0\ref\RefandOut keywords.dll
